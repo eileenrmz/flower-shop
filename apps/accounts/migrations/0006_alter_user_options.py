@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from django.db import migrations
 
 
@@ -12,3 +13,4 @@ class Migration(migrations.Migration):
             options={"verbose_name": "user", "verbose_name_plural": "users"},
         ),
     ]
+

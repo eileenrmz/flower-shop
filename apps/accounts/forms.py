@@ -1,3 +1,4 @@
+
 import re
 
 from django import forms
@@ -127,4 +128,5 @@ class StyledPasswordResetForm(PasswordResetForm):
 
 
 class StyledSetPasswordForm(SetPasswordForm):
+
     """Uses the same .form-group/.input-with-icon design as ProfileForm/the login modal."""
